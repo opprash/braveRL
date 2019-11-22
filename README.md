@@ -1,7 +1,7 @@
 # My first open source project of nlp
 
 ## That's cool!
-## 这是最新版本，之前的库更名为braveRL-past，可以去[braveRL-past](https://github.com/opprash/braveRL) 查看，之前那个库不在维护，以后的代码基本都会提交在这个库里面。
+## 这是最新版本，之前的库已更名，可以去[braveRL-past](https://github.com/opprash/braveRL-past) 查看，之前那个库不在维护，以后的代码基本都会提交在这个库里面。
 
 ## onehot编码
 onehot本质上属于词典模型，最终一句话的向量维数是词袋中词的总数，假设有几句话：
