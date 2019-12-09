@@ -34,7 +34,7 @@ MMD是一种双样本检验的方法，当结果为0时表示两个样本服从�
 ## 实验结果
 ### 数据集
 数据集中包含了5个领域，分别是订火车票，订飞机票，买手机，买电脑，买电影票，其训练集，验证集，和测试集。这些数据随后将会公开。
-数据集的相关细节如表2所示。　　
+数据集的相关细节如表2所示。  
 ![da6](https://github.com/opprash/braveRL/blob/master/datas/lan/da6.png)  
 ### 实验结果
 ![da7](https://github.com/opprash/braveRL/blob/master/datas/da7.png)  
